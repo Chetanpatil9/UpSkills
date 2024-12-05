@@ -11,3 +11,4 @@
 # UpSkills
 # leadapplication
 # movie-app
+# loginpage
